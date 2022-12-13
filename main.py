@@ -41,8 +41,6 @@ if __name__ == "__main__":
         entity_graph, dynamic_graph, entity_chapter_graph = character_graph.generate_and_save()
 
     # GRAPH ANALYSIS
-    # We compute, print and plot some graph properties that have been presented in the evaluation
-    # section of the report
     print("\n\nGRAPH ANALYSIS")
     # Characters' importance
     print("-- ANALYSE ENTITY GRAPH OF FULL NOVEL --")
