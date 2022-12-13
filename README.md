@@ -20,9 +20,10 @@
 
 ## Files in this Repository
 * main.py: Main Python code for running the entire pipeline
-* requirements.txt: Requirements.txt with all requirements for running this code
+* requirements.txt: Requirements.txt with all requirements for running this code 
 * Raw Data with Fanfiction Stories.zip: Zipfile containing raw data
 * Fanfic_code.ipynb: Main Python code for comprehensive entire corpus analysis for all original books and all fanfiction documents
+* Project Results.zip: Folder containing all project results (including terminal dumps) for all code runs
 
 
 This project and code has been adapted from various sources [[1](https://github.com/booknlp/booknlp), [2](https://github.com/dldk-gael/novel_story_building)] 
