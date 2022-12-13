@@ -1,4 +1,4 @@
-# CSC2611-Fanfiction
+# CSC2611-Fanfiction Final Project
 
 ## Directory Structure
 * src
@@ -23,3 +23,6 @@
 * requirements.txt: Requirements.txt with all requirements for running this code
 * Raw Data with Fanfiction Stories.zip: Zipfile containing raw data
 * Fanfic_code.ipynb: Main Python code for comprehensive entire corpus analysis for all original books and all fanfiction documents
+
+
+This project and code has been adapted from various sources [[1](https://github.com/booknlp/booknlp), [2](https://github.com/dldk-gael/novel_story_building)] 
